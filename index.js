@@ -10,7 +10,7 @@ var skippedModels = [
 	'keyword',
 
 	// gray conflicts with some method names, and has its own method defined.
-	'gray'
+	'gray',
 
 	// shouldn't really be in color-convert either...
 	'hex'
